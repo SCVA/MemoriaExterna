@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoriaExterna</string>
+    <string name="boton2_txt">Leer SD</string>
+    <string name="boton_txt">Guardar SD</string>
+</resources>
